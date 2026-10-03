@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Aurevio logo">
+  <rect width="128" height="128" rx="28" fill="#10100f"/>
+  <rect x="18" y="18" width="92" height="92" rx="20" fill="#171714" stroke="#d7ff3f" stroke-width="2"/>
+  <path d="M40 91V37h18.5c14.8 0 23.5 8.3 23.5 23.1 0 15-8.7 23.9-23.5 23.9H40zm18.1-14.8c7.6 0 11.9-4.7 11.9-12.7 0-7.8-4.3-12.3-11.9-12.3H52.7v25h5.4z" fill="#d7ff3f"/>
+</svg>

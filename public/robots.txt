@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/WajahatAli2010/aurevio-v3/sitemap.xml
